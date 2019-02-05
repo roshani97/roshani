@@ -1,1 +1,2 @@
-print("Hii Roshani")
+str=input("Enter u r name")
+print(str)
